@@ -27,4 +27,7 @@ export default App;
 Instalacion de Librerias
   npm i react-router-dom libreria para poder trabajar con rutas
   npm i react-icons
+  npm i json-server para forma global usaremos npm install -g json-server
+  npm i axios
+
 */
